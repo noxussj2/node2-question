@@ -20,7 +20,7 @@
 var xiaoming = 50;
 var libai = 80;
 
-if (xiaoming === '40' && libai > 60) {
+if (xiaoming === '50' && libai > 60) {
     console.log('A');
 } else {
     console.log('B');
@@ -33,9 +33,17 @@ if (xiaoming === '40' && libai > 60) {
 
 ## 题目 4
 
-请编写一个函数，判断字符 "a" 是否在字符串 "apple" 中出现过。
+```javascript
+var i = 0;
 
-答题文件为： `part4.js`
+while (i <= 0) {
+    console.log('A');
+}
+```
+
+请描述这段代码中存在什么问题？
+
+答题文件为： `part4.md`
 
 ## 题目 5
 
